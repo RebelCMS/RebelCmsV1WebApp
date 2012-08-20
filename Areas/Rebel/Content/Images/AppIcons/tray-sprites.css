@@ -1,0 +1,42 @@
+﻿#tray {
+    margin-top: 5px;
+}
+
+#tray li a {
+    background-repeat: no-repeat;
+    background-image: url('tray-sprites-new.png');
+}
+
+.app-traycontent {
+    background-position: 15px 0;
+    height: 21px;
+    width: 24px;
+}
+
+.app-traymedia {
+    background-position: 11px -40px;
+}
+
+.app-trayusers {
+    background-position: 7px -120px;
+}
+
+.app-traysettings {
+    background-position: 13px -80px;
+}
+
+.app-traydeveloper {
+    background-position: 13px -200px;
+}
+
+.app-traymember {
+    background-position: 14px -160px;
+}
+
+.app-traystats {
+
+}
+
+.app-traytranslation {
+
+}
